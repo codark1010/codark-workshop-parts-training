@@ -1,0 +1,4 @@
+ticketCode,assetCode,equipmentClass,faultSummary,inspectionState,stockCount,binCode
+RPR-K24,BR-208,desk-lamp,intermittent power,awaiting-check,17,PARTS-C8
+RPR-P61,FN-462,fan,dust around intake grill,needs-cleaning,8,PARTS-L3
+RPR-V83,RD-751,radio,damaged volume control,awaiting-part,0,PARTS-Q6
